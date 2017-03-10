@@ -18,7 +18,7 @@ namespace DSASS.Models
         public string device { get; set; }
         public string Model { get; set; }
         public string serialNo { get; set; }
-        public string signature { get; set; }
+        public string Signature { get; set; }
         public int p { get; set; }
 
     }
