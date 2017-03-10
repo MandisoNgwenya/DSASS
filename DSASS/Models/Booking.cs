@@ -19,8 +19,15 @@ namespace DSASS.Models
         public string Model { get; set; }
         public string serialNo { get; set; }
         public string Signature { get; set; }
+<<<<<<< HEAD
         public int pB { get; set; }
+=======
+<<<<<<< HEAD
+=======
+        public int p { get; set; }
+>>>>>>> origin/master
         //kjhgkjhgkjhg
+>>>>>>> origin/master
 
     }
 }
